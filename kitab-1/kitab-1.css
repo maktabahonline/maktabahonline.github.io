@@ -2,7 +2,7 @@
     text-align: center; 
     text-decoration: none;
     position: relative;
-    background-color: aqua;
+
 }
 .list-button{
     text-decoration: none;
@@ -15,11 +15,9 @@
 
 }
 body{
-    background-image: url(img/02810ace7e6604eafff450d59435ce73.jpg);
+    background-color: rgb(253, 227, 165);
 }
-.kitab-1{
-    width: 150px;
-}
-.img-kitab{
-    position: relative;
-}
+.gambar{
+    width: 500px;
+    text-align: center;
+} 
